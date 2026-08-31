@@ -1,7 +1,7 @@
 {
-  "version": "1.21.0",
-  "url": "",
-  "sha256": "DC9347A751BDD6E3652975A3910AAA87A7295613C32DEDA02654DCAC281583C1",
+  "version": "1.21.4",
+  "url": "https://github.com/aogemissary-arch/ProxyChangerPC-Update/releases/download/v1.21.4/ProxyChangerPro_v1.21.4.exe",
+  "sha256": "7F6E346A7860B12576D7E547C7F33679A8CE7778199445AFE0E85C18304F03E2",
   "mandatory": false,
-  "notes": "Updater paused while restart behavior is fixed"
+  "notes": "Proxy Changer Pro PC v1.21.4 - restart test release"
 }
