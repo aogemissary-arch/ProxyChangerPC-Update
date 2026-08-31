@@ -1,7 +1,7 @@
 {
-  "version": "1.21.3",
-  "url": "https://github.com/aogemissary-arch/ProxyChangerPC-Update/releases/download/v1.21.3/ProxyChangerPro_v1.21.3.exe",
-  "sha256": "E3DE975C7DADC5FD2883CEC9773F90DF6ABFD659D1DA2B9E5672F4098CE347BB",
+  "version": "1.21.4",
+  "url": "https://github.com/aogemissary-arch/ProxyChangerPC-Update/releases/download/v1.21.4/ProxyChangerPro_v1.21.4.exe",
+  "sha256": "7F6E346A7860B12576D7E547C7F33679A8CE7778199445AFE0E85C18304F03E2",
   "mandatory": false,
-  "notes": "Proxy Changer Pro PC v1.21.3 - UTF-8 clean updater release"
+  "notes": "Proxy Changer Pro PC v1.21.4 - restart test release"
 }
