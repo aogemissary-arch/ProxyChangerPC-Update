@@ -1,7 +1,7 @@
 {
-  "version": "1.21.2",
-  "url": "https://github.com/aogemissary-arch/ProxyChangerPC-Update/releases/download/v1.21.2/ProxyChangerPro_v1.21.2.exe",
-  "sha256": "8625BD955B26790442F048205290A9B703BD798FCC473C602381B2A9F3173CD7",
+  "version": "1.21.0",
+  "url": "",
+  "sha256": "DC9347A751BDD6E3652975A3910AAA87A7295613C32DEDA02654DCAC281583C1",
   "mandatory": false,
-  "notes": "Proxy Changer Pro PC v1.21.2 - restart fix"
+  "notes": "Proxy Changer Pro PC - updater temporarily paused while final v1.21.2 build is verified"
 }
