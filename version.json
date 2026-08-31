@@ -1,7 +1,7 @@
 {
-  "version": "1.21.0",
-  "url": "",
-  "sha256": "DC9347A751BDD6E3652975A3910AAA87A7295613C32DEDA02654DCAC281583C1",
+  "version": "1.21.3",
+  "url": "https://github.com/aogemissary-arch/ProxyChangerPC-Update/releases/download/v1.21.3/ProxyChangerPro_v1.21.3.exe",
+  "sha256": "E3DE975C7DADC5FD2883CEC9773F90DF6ABFD659D1DA2B9E5672F4098CE347BB",
   "mandatory": false,
-  "notes": "Updater paused while UTF-8/mojibake issue is investigated"
+  "notes": "Proxy Changer Pro PC v1.21.3 - UTF-8 clean updater release"
 }
